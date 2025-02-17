@@ -19,7 +19,7 @@ print(ingredients)
 print(instructions)
 print(names)
 
-form = "https://forms.gle/pAoa2d1B2xpyuarV6"
+form = "" #<----------Create a gform and paste the link here
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach",True)
 
